@@ -4,5 +4,4 @@ version = "0.1.0"
 authors = ["Eddy Bruel <ejpbruel@mozilla.com>"]
 
 [dependencies]
-getopts = "0.2.14"
 js = { git = "https://github.com/servo/rust-mozjs" }
